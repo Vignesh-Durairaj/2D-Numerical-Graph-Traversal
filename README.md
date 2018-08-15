@@ -46,5 +46,8 @@ $ java com.vikhi.skiing.SkiingExecutor <map_file.txt>
 It has a dependency of `Log4j` and should include this jar either as a part of Maven run time or in other runtime environment. 
 
 
+**Future**
+
+The above code base has a huge room for improvement and these will be added en-course of time.
 
 > Look for the simplest and the shortest solution for any problem, rather than complicating it further
