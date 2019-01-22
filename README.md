@@ -1,4 +1,7 @@
 # 2D Traversal of a numerical graph
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0b5dde3b15141e886a1b754f7138037)](https://app.codacy.com/app/Vignesh-Durairaj/2D-Numerical-Graph-Traversal?utm_source=github.com&utm_medium=referral&utm_content=Vignesh-Durairaj/2D-Numerical-Graph-Traversal&utm_campaign=Badge_Grade_Dashboard)
+
 A Java based solution for a challenging scenario where to traverse a lengthy and also deepest skiing route referring a digital 2D map of numerals. Refer this [this page](http://geeks.redmart.com/2015/01/07/skiing-in-singapore-a-coding-diversion/).  
 
 * Programming Language used : `Java` - version 8
